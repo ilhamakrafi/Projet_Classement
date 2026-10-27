@@ -4,3 +4,4 @@ listePhotos.csv
 
 # Exclure les dossiers de photos lourds
 /Photos/
+Set-Content -Path .gitignore -Value "Photos/`n*.csv`nlistePhotos.csv"
