@@ -1,0 +1,6 @@
+# Fichiers générés
+*.csv
+listePhotos.csv
+
+# Exclure les dossiers de photos lourds
+/Photos/
